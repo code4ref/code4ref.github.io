@@ -1,4 +1,6 @@
-# How to report software outputs in Pure
+---
+title: How to report software outputs in Pure
+---
 
 This guide has been written with reference to the Pure instance at the
 University of St Andrews, which is version 5.13.1 at the time of writing.
