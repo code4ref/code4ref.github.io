@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+exclude:
+    - README.md
+
