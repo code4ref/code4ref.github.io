@@ -1,4 +1,5 @@
+title: Code4REF
+description: How to record research software in CRIS (Continuing Research Information Systems)
 theme: jekyll-theme-tactile
 exclude:
     - README.md
-
