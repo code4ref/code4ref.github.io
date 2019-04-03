@@ -1,8 +1,10 @@
 # Code4REF
 
-System-specific instructions:
+Quick links to system-specific instructions:
 - [Pure](pure.html)
 - [RIS](RIS.html)
+
+## Reporting research software in CRIS (Continuing Research Information Systems)
 
 Research software is an eligible REF submission. However, the majority
 of REF submissions are research publications. Indeed, refereeing 
