@@ -4,7 +4,7 @@ Quick links to system-specific instructions:
 - [Pure](pure.html)
 - [RIS](RIS.html)
 
-## Reporting research software in CRIS (Continuing Research Information Systems)
+## Reporting research software in CRIS (Current Research Information Systems)
 
 Research software is an eligible REF submission. However, the majority
 of REF submissions are research publications. Indeed, refereeing
@@ -12,7 +12,7 @@ research software is a difficult task, and reviewers may not have
 clear guidelines for its evaluation for the REF purposes (something
 else we need to work on), and many researchers prefer the safer route
 of submitting papers. As a result, software outputs are not always
-being recorded in Continuing Research Information Systems (CRIS)
+being recorded in Current Research Information Systems (CRIS)
 used by universities. The first step here would be to help to
 research software developers to find a way to record their outputs
 in CRIS. This may not always be obvious, so on this website we provide
@@ -34,7 +34,7 @@ as research output, and will make a stronger case for the campaign
 for the recognition and adoption of the RSE role within academia,
 lead by the [UK Research Software Engineer Association](https://rse.ac.uk/).
 
-## Continuing Research Information Systems used in UK Universities
+## Current Research Information Systems used in UK Universities
 
 [UCISA](https://www.ucisa.ac.uk/) regularly survey UK Higher Education
 Institutions about the systems they use, including CRIS. [The 2017 results are
@@ -56,7 +56,7 @@ repository](https://github.com/code4ref/code4ref.github.io).
 
 ## General workflow
 
-How to record research software in CRIS (Continuing Research Information Systems)
+How to record research software in CRIS (Current Research Information Systems)
 
 Different scenarios. What is minimal. What is recommended.
 
