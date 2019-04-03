@@ -7,7 +7,7 @@ Quick links to system-specific instructions:
 ## Reporting research software in CRIS (Continuing Research Information Systems)
 
 Research software is an eligible REF submission. However, the majority
-of REF submissions are research publications. Indeed, refereeing 
+of REF submissions are research publications. Indeed, refereeing
 research software is a difficult task, and reviewers may not have
 clear guidelines for its evaluation for the REF purposes (something
 else we need to work on), and many researchers prefer the safer route
@@ -21,7 +21,7 @@ doing this.
 
 Recording research software in CRIS is useful for many purposes,
 not only for REF, and we encourage developers to report all your
-software outputs there. 
+software outputs there.
 [A survey of 15 Russell Group universities](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers)
 found that 92% of researchers use research software, 67% find
 it fundamental to their research, and 56% develop their own software.
@@ -34,10 +34,25 @@ as research output, and will make a stronger case for the campaign
 for the recognition and adoption of the RSE role within academia,
 lead by the [UK Research Software Engineer Association](https://rse.ac.uk/).
 
-
 ## Continuing Research Information Systems used in UK Universities
 
-Which systems are in use, reference to the report, some numbers.
+[UCISA](https://www.ucisa.ac.uk/) regularly survey UK Higher Education
+Institutions about the systems they use, including CRIS. [The 2017 results are
+available online](https://www.ucisa.ac.uk/bestpractice/surveys/cis/cis17); the
+2018 results are pending.
+
+Elsevier's Pure is the most widely-used CRIS in the UK, followed by Eprints and
+Elements/Symplectic. If you use one of the systems not yet covered here, please
+consider contributing to this project via our [GitHub
+repository](https://github.com/code4ref/code4ref.github.io).
+
+- [Pure](pure.html)
+- EPrints
+- Elements (Symplectic)
+- Converis
+- IRIS
+- [Worktribe/RIS](ris.html)
+- Vidatum
 
 ## General workflow
 
@@ -71,10 +86,6 @@ If executables are to be shared, you can upload them to the CRIS or link to
 them if they are hosted elsewhere.
 
 You should be able to apply access restrictions to the record as appropriate.
-
-## Instructions for particular systems
-
-Add links to pages. Same may be duplicated above to make it easier to find.
 
 ## Other useful resources
 
