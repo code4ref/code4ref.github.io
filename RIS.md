@@ -1,6 +1,6 @@
 ## How to report software outputs in RIS
 
-This guide shows the method for recording software outputs in RIS as implemented at the University of Nottingham (3rd April 2019).
+This guide shows the method for recording software outputs in RIS as implemented at the University of Not![Imatingham (3rd April 2019).
 
 From the menu bar select **Outputs->Add New Output**
 
@@ -20,5 +20,19 @@ In order to select a software output use **Type->Digital Artifact**. This enable
 The **Media** option is a mandatory field. In this case **Online** is chosen for software which is downloadable online.
 
 ![Image](RISImages/AddNewOutputDialog2.png)
+
+The rest of the fields are optional and can be edited from the Outputs page at a later date if not input at this stage.
+
+![Image](RISImages/AddNewOutputDialog3.png)
+
+On completion of the desired fields select **Create Output**
+
+**Add Authors**
+Outputs added manually will not have any authors or contributors associated with them. To add these select the **Authors** tab from the output record and use the green **Edit** button to add authors.
+
+![Image](RISImages/AddAuthor)
+
+
+
 
 
