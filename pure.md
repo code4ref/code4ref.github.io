@@ -1,3 +1,7 @@
+---
+title: Code4REF
+---
+
 # How to report software outputs in Pure
 
 This guide has been written with reference to the Pure instance at the
@@ -11,13 +15,13 @@ Then you will see the following input form:
 
 ![Image](PureImages/02_InputForm.png)
 
-Enter publication status(es) and date(s). 
+Enter publication status(es) and date(s).
 
 ![Image](PureImages/03_PublicationStatus.png)
 
 "Published" and "Unpublished" are likely to be the relevant options.
 
-Enter the publication information. 
+Enter the publication information.
 
 ![Image](PureImages/04_Title.png)
 
