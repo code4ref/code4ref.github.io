@@ -51,7 +51,7 @@ repository](https://github.com/code4ref/code4ref.github.io).
 - Elements (Symplectic)
 - Converis
 - IRIS
-- [Worktribe/RIS](ris.html)
+- [Worktribe/RIS](RIS.html)
 - Vidatum
 
 ## General workflow
