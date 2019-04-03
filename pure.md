@@ -1,7 +1,3 @@
----
-title: Code4REF
----
-
 # How to report software outputs in Pure
 
 This guide has been written with reference to the Pure instance at the
