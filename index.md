@@ -54,18 +54,15 @@ repository](https://github.com/code4ref/code4ref.github.io).
 - [Worktribe/RIS](RIS.html)
 - Vidatum
 
-## General workflow
-
-How to record research software in CRIS (Current Research Information Systems)
-
-Different scenarios. What is minimal. What is recommended.
+## Process Overview
 
 There are several broad categories of software which should be recorded in a
 CRIS.
 
 - Open-source software
 - Closed source software for which executables can be made available
-- Software projects which are unable to make any outputs available, but which can be publicly acknowledged
+- Software projects which are unable to make any outputs available, but which
+  can be publicly acknowledged
 - Software projects which can not be publicly disclosed
 
 You may wish to create a single record for a piece of software, or multiple
