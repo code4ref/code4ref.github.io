@@ -50,4 +50,10 @@ Add links to pages. Same may be duplicated above to make it easier to find.
 
 ## About this project
 
-This is a hack day project at the SSI's [Collaboration Workshop 2019](https://www.software.ac.uk/cw19)
+This is a hackday project at the SSI's [Collaboration Workshop 2019](https://www.software.ac.uk/cw19).
+
+The hackday team:
+
+- Louise Brown, Unviersity of Nottingham
+- Alexander Konovalov, University of St Andrews
+- Patrick McCann, University of St Andrews
