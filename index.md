@@ -1,5 +1,9 @@
 # Code4REF
 
+System-specific instructions:
+- [Pure](pure.html)
+- [RIS](RIS.html)
+
 Research software is an eligible REF submission. However, the majority
 of REF submissions are research publications. Indeed, refereeing 
 research software is a difficult task, and reviewers may not have
