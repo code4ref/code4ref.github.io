@@ -1,8 +1,10 @@
 # Code4REF
 
-System-specific instructions:
+Quick links to system-specific instructions:
 - [Pure](pure.html)
 - [RIS](RIS.html)
+
+## Reporting research software in CRIS (Continuing Research Information Systems)
 
 Research software is an eligible REF submission. However, the majority
 of REF submissions are research publications. Indeed, refereeing 
@@ -50,6 +52,9 @@ CRIS.
 - Closed source software for which executables can be made available
 - Software projects which are unable to make any outputs available, but which can be publicly acknowledged
 - Software projects which can not be publicly disclosed
+
+You may wish to create a single record for a piece of software, or multiple
+records for different versions of that software.
 
 For open-source software, we suggest that the project is archived using
 [GitHub's integration with Zenodo](https://guides.github.com/activities/citable-code/)
