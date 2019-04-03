@@ -1,4 +1,8 @@
-## How to report software outputs in RIS
+---
+title: Code4REF
+---
+
+# How to report software outputs in RIS
 
 This guide shows the method for recording software outputs in RIS as implemented at the University of Nottingham (3rd April 2019).
 
@@ -10,7 +14,7 @@ Four input options are given. For software outputs either using a DOI or manual 
 
 ![Image](RISImages/AddNewOutputManual.png)
 
-# Add Manually
+## Add Manually
 
 In order to select a software output use **Type->Digital Artifact**. This enables the **Digital Artefact Type** dropdown menu from which **Software** can be selected.
 **Publication Status** can be selected as **Published** for Open Source.
@@ -32,7 +36,7 @@ Outputs added manually will not have any authors or contributors associated with
 
 ![Image](RISImages/AddAuthor)
 
-# Add by DOI
+## Add by DOI
 
 If software has been released with a DOI select **Add by DOI** from the Add New Output dialog and enter the DOI in the following dialog.
 
