@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Code4REF
 
-You can use the [editor on GitHub](https://github.com/code4ref/code4ref.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Why
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research software is an eligible REF submission but is rarely submitted.
 
-### Markdown
+The systems used to manage the REF at institutions focus on publications and, to some extent, datasets. In our experience these systems can also handle software, but it is not obvious how details of software can be recorded.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Encouraging researchers to record details of their software in a CRIS also encourages them to make it openly available and citable.
 
-```markdown
-Syntax highlighted code block
+## What
 
-# Header 1
-## Header 2
-### Header 3
+We've created the website https://code4ref.github.io to provide guidance to researchers on recording details of their software in a CRIS.
 
-- Bulleted
-- List
+The documentation currently draws on our experiences of the Pure system at St Andrews and the RIS system at Nottingham.
 
-1. Numbered
-2. List
+## Who
 
-**Bold** and _Italic_ and `Code` text
+As well as providing guidance to researchers, the website should also help administrators to see how to support the reporting of research software and encourage them to feed back to vendors on how research software can be better supported.
 
-[Link](url) and ![Image](src)
-```
+## What next
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We only have experience of two of the systems currently used in UK HE, we need contributions from others to cover the full range. It is also unclear how customised our reference systems are, so we also need input from other users of those.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/code4ref/code4ref.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
