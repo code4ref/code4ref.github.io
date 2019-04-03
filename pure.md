@@ -36,9 +36,18 @@ maintainers, testers etc. - you should use **Other**.
 
 ![Image](PureImages/06_FindAuthor.png)
 
+After choosing an internal collaborator, you will see the next window.
+
 ![Image](PureImages/07_AddAuthor.png)
 
+The list of roles here is not really suitable for software projects
+(this is something to ask Pure developers in the future), so for now
+"Author" is likely the most useful role. There is no suitable role for
+maintainers, testers etc. - you should use "Other".
+
 ![Image](PureImages/08_AuthorRole.png)
+
+After adding a new author, you will see the extended list of authors:
 
 ![Image](PureImages/09_TwoAuthors.png)
 
@@ -51,9 +60,12 @@ Zenodo may already be available, or they can be created.
 
 ![Image](PureImages/11_Find_Publisher.png)
 
-**Electronic version(s), and related files and links** is where you can link to
-an external resource and/or upload files. In particular, if you have a DOI you
-should add it here, along with details of the applicable license.
+The next section, **Electronic version(s), and related files and links**, is
+where you can link to an external resource and/or upload files. In particular,
+if you have a DOI you should add it here, along with details of the applicable
+license.
+
+For example, below is what is used for the recent release of the GAP system:
 
 ![Image](PureImages/12_Versions.png)
 
@@ -70,6 +82,5 @@ Add details of any **Relations** the record has to any existing records in Pure
 
 ![Image](PureImages/15_Relations.png)
 
-Set the **Visibility** according to how you wish the record to be available.
-
-Click **Save** to complete the entry.
+Finally, set the **Visibility** according to how you wish the record to be available
+and press **Save**.
