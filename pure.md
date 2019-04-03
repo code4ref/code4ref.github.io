@@ -31,7 +31,7 @@ Leave **Media of output** as **No value**.
 ![Image](PureImages/05_Media.png)
 
 Add **Contributors**. **Developer** is likely the most useful role; **Author**
-may be suitable for writers od documentation. There is no suitable role for
+may be suitable for writers of documentation. There is no suitable role for
 maintainers, testers etc. - you should use **Other**.
 
 ![Image](PureImages/06_FindAuthor.png)
