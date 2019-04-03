@@ -1,9 +1,39 @@
 # Code4REF
 
-## Summary
+Quick links to system-specific instructions:
+- [Pure](pure.html)
+- [RIS](RIS.html)
 
-Why we recommend to record research software in
-CRIS (Continuing Research Information Systems)
+## Reporting research software in CRIS (Continuing Research Information Systems)
+
+Research software is an eligible REF submission. However, the majority
+of REF submissions are research publications. Indeed, refereeing 
+research software is a difficult task, and reviewers may not have
+clear guidelines for its evaluation for the REF purposes (something
+else we need to work on), and many researchers prefer the safer route
+of submitting papers. As a result, software outputs are not always
+being recorded in Continuing Research Information Systems (CRIS)
+used by universities. The first step here would be to help to
+research software developers to find a way to record their outputs
+in CRIS. This may not always be obvious, so on this website we provide
+general guidelines and step-by-step system-specific instructions for
+doing this.
+
+Recording research software in CRIS is useful for many purposes,
+not only for REF, and we encourage developers to report all your
+software outputs there. 
+[A survey of 15 Russell Group universities](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers)
+found that 92% of researchers use research software, 67% find
+it fundamental to their research, and 56% develop their own software.
+To get further information, for example, an overview of all research
+developed at an institution, in the research group or by an individual
+developer, one could use CRIS or their public views (e.g. research
+portals), provided they contain relevant records. This will provide
+further evidence that software is vital for research, should be treated
+as research output, and will make a stronger case for the campaign
+for the recognition and adoption of the RSE role within academia,
+lead by the [UK Research Software Engineer Association](https://rse.ac.uk/).
+
 
 ## Continuing Research Information Systems used in UK Universities
 
