@@ -31,7 +31,7 @@ The rest of the fields are optional and can be edited from the Outputs page at a
 
 On completion of the desired fields select **Create Output**
 
-**Add Authors**
+### Add Authors ###
 Outputs added manually will not have any authors or contributors associated with them. To add these select the **Authors** tab from the output record and use the green **Edit** button to add authors.
 
 ![Image](RISImages/AddAuthor.png)
