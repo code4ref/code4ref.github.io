@@ -32,7 +32,13 @@ Outputs added manually will not have any authors or contributors associated with
 
 ![Image](RISImages/AddAuthor)
 
+# Add by DOI
 
+If software has been released with a DOI select **Add by DOI** from the Add New Output dialog and enter the DOI in the following dialog.
+
+![Image](RISImages/AddDOI.png)
+
+RIS searches for the output and populates the records from the output metadata.
 
 
 
