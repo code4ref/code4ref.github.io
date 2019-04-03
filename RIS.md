@@ -34,7 +34,7 @@ On completion of the desired fields select **Create Output**
 **Add Authors**
 Outputs added manually will not have any authors or contributors associated with them. To add these select the **Authors** tab from the output record and use the green **Edit** button to add authors.
 
-![Image](RISImages/AddAuthor)
+![Image](RISImages/AddAuthor.png)
 
 ## Add by DOI
 
