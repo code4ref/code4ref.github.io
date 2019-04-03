@@ -43,6 +43,7 @@ If software has been released with a DOI select **Add by DOI** from the Add New 
 ![Image](RISImages/AddDOI.png)
 
 RIS searches for the output and populates the records from the output metadata.
+This remains untested for a DOI for software.
 
 
 
