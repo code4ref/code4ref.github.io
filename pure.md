@@ -22,7 +22,7 @@ appropriate for open-source software.
 ![Image](PureImages/03_PublicationStatus.png)
 
 Enter the publication information. Note that the mandatory **Original
-language** field does not refer to programming and languages.
+language** field does not refer to programming languages.
 
 ![Image](PureImages/04_Title.png)
 
