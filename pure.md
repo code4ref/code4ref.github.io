@@ -52,10 +52,12 @@ After adding a new author, you will see the extended list of authors:
 
 Change the **Managing organisational unit** if necessary.
 
-Add **Publisher** information. Potentially relevant options such as GitHub and
-Zenodo may already be available, or they can be created.
+Add **Publisher** information.
 
 ![Image](PureImages/10_Publisher.png)
+
+Potentially relevant options such as GitHub and Zenodo may already be available, or they can be created.
+If the software is available from its webpage, but not published via some repository, you can leave this field blank.
 
 ![Image](PureImages/11_Find_Publisher.png)
 
