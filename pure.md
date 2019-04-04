@@ -30,9 +30,8 @@ Leave **Media of output** as **No value**, or specify **Online** for software pu
 
 ![Image](PureImages/05_Media.png)
 
-Add **Contributors**. **Developer** is likely the most useful role; **Author**
-may be suitable for writers of documentation. There is no suitable role for
-maintainers, testers etc. - you should use **Other**.
+Add **Contributors**. Here you can search and add an internal contributor by their
+nbame, or create an external person.
 
 ![Image](PureImages/06_FindAuthor.png)
 
@@ -42,8 +41,8 @@ After choosing an internal collaborator, you will see the next window.
 
 The list of roles here is not really suitable for software projects
 (this is something to ask Pure developers in the future), so for now
-"Author" is likely the most useful role. There is no suitable role for
-maintainers, testers etc. - you should use "Other".
+**Author** is likely the most useful role. There is no suitable role for
+maintainers, testers and other contributors who are not authors - for these, you should use **Other**.
 
 ![Image](PureImages/08_AuthorRole.png)
 
