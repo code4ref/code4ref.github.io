@@ -66,11 +66,15 @@ where you can link to an external resource and/or upload files. In particular,
 if you have a DOI you should add it here, along with details of the applicable
 license.
 
-For example, below is what is used for the recent release of the GAP system:
+For example, below is what is used for the release of the [GAP system](https://www.gap-system.org), [version 4.10.1](https://www.gap-system.org/Releases/4.10.1.html):
 
 ![Image](PureImages/12_Versions.png)
 
+This is a link to the downloads page for the official GAP distribution:
+
 ![Image](PureImages/13_FinalPublished.png)
+
+This is a link to the corresponding tag in the GAP repository on GitHub:
 
 ![Image](PureImages/14_GitHubTag.png)
 
