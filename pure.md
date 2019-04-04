@@ -26,7 +26,7 @@ language** field does not refer to programming languages.
 
 ![Image](PureImages/04_Title.png)
 
-Leave **Media of output** as **No value**.
+Leave **Media of output** as **No value**, or specify **Online** for software publicly available for downloads.
 
 ![Image](PureImages/05_Media.png)
 
