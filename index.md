@@ -95,6 +95,6 @@ This is a hackday project at the SSI's [Collaboration Workshop 2019](https://www
 
 The hackday team:
 
-- [Louise Brown](https://www.nottingham.ac.uk/engineering/people/louise.brown), Unviersity of Nottingham
+- [Louise Brown](https://www.nottingham.ac.uk/engineering/people/louise.brown), University of Nottingham
 - [Alexander Konovalov](https://risweb.st-andrews.ac.uk/portal/en/persons/alexander-konovalov(fa3ee225-1bbd-408f-884a-f9a715bf86d5).html), University of St Andrews
 - [Patrick McCann](https://risweb.st-andrews.ac.uk/portal/en/persons/paddy-mccann(6bfbed00-4430-4ffe-8aac-4033d19d0fd3).html), University of St Andrews
