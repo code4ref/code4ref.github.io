@@ -27,3 +27,5 @@ Software is still an afterthought when thinking of research outputs. This will g
 This documentation will facilitate the recording of software produced at an institution, allowing a clearer picture to be developed of the volume and range of software being created.
 
 Encouraging researchers to record details of their software in a CRIS also encourages them to make it openly available and citable.
+
+
