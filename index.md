@@ -25,7 +25,7 @@ software outputs there.
 [A survey of 15 Russell Group universities](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers)
 found that 92% of researchers use research software, 67% find
 it fundamental to their research, and 56% develop their own software.
-To get further information, for example, an overview of all research
+To get further information, for example, an overview of all research software
 developed at an institution, in the research group or by an individual
 developer, one could use CRIS or their public views (e.g. research
 portals), provided they contain relevant records. This will provide
