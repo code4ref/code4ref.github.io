@@ -96,7 +96,7 @@ and press **Save**.
 This guide has been written with reference to the Pure instance at the
 University of Birmingham, which is version 5.14.1 at the time of writing.
 
-*Prerequisits:* 
+*Prerequisites:* 
 * You will have to have your code listed as a research output on your [ORCID record](https://orcid.org/). You can do this manually or, if your code has a DOI assigned through [zenodo](https://zenodo.org/) or [figshare](https://figshare.com/), via [ORCID's search and link functionality](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems) using the [DataCite](https://datacite.org/) wizard.
 * Your institution has enabled ORCID as an import source for PURE.
 
