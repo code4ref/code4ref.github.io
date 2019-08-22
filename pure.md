@@ -102,16 +102,16 @@ University of Birmingham, which is version 5.14.1 at the time of writing.
 
 Create a new research output by choosing "Import from online source" and pick ORCID
 
-![Image](https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/16_ORCID_import.png)
+![Image](PureImages/16_ORCID_import.png)
 
 Search using your ORCID identifier and you will get a list of records on your ORCID profile that are not on PURE yet. Pick the one you'd like to add and click **import**.
 
-![Image](https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/17_ORCID_results.png)
+![Image](PureImages/17_ORCID_results.png)
 
 This will add most of the metadata automatically and you will just need to ensure that creators are mapped correctly to researchers at your institution.
 
 The import will automatically choose the template **Research output-> Other contribution**. You will change template to **Non-textual form->Software** as shown above.
 
-![Image](https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/18_Template_change.png)
+![Image](PureImages/18_Template_change.png)
 
 You can now add any other information following the steps lined out above.
