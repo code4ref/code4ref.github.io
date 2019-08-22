@@ -112,6 +112,6 @@ This will add most of the metadata automatically and you will just need to ensur
 
 The import will automatically choose the template **Research output-> Other contribution**. You will change template to **Non-textual form->Software** as shown above.
 
-![Image}(https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/18_Template_change.png)
+![Image](https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/18_Template_change.png)
 
 You can now add any other information following the steps lined out above.
