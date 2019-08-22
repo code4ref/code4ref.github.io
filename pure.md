@@ -89,3 +89,13 @@ Add details of any **Relations** the record has to any existing records in Pure
 
 Finally, set the **Visibility** according to how you wish the record to be available
 and press **Save**.
+
+
+## How to import code to PURE via ORCID
+
+*Prerequisit:* 
+* You will have to have your code listed as a research output on your [ORCID record](https://orcid.org/). You can do this manually or, if your code has a DOI assigned through [zenodo](https://zenodo.org/) or [figshare](https://figshare.com/), via [ORCID's search and link functionality](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems) using the [DataCite](https://datacite.org/) wizard.
+* Your institution has enabled ORCID as an import source for PURE.
+
+
+
