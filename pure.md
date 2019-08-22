@@ -93,9 +93,25 @@ and press **Save**.
 
 ## How to import code to PURE via ORCID
 
-*Prerequisit:* 
+This guide has been written with reference to the Pure instance at the
+University of Birmingham, which is version 5.14.1 at the time of writing.
+
+*Prerequisits:* 
 * You will have to have your code listed as a research output on your [ORCID record](https://orcid.org/). You can do this manually or, if your code has a DOI assigned through [zenodo](https://zenodo.org/) or [figshare](https://figshare.com/), via [ORCID's search and link functionality](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems) using the [DataCite](https://datacite.org/) wizard.
 * Your institution has enabled ORCID as an import source for PURE.
 
+Create a new research output by choosing "Import from online source" and pick ORCID
 
+![Image](https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/16_ORCID_import.png)
 
+Search using your ORCID identifier and you will get a list of records on your ORCID profile that are not on PURE yet. Pick the one you'd like to add and click **import**.
+
+![Image](https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/17_ORCID_results.png)
+
+This will add most of the metadata automatically and you will just need to ensure that creators are mapped correctly to researchers at your institution.
+
+The import will automatically choose the template **Research output-> Other contribution**. You will change template to **Non-textual form->Software** as shown above.
+
+![Image}(https://github.com/pherterich/code4ref.github.io/blob/master/PureImages/18_Template_change.png)
+
+You can now add any other information following the steps lined out above.
