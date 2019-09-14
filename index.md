@@ -37,9 +37,8 @@ lead by the [UK Research Software Engineer Association](https://rse.ac.uk/).
 ## Current Research Information Systems used in UK Universities
 
 [UCISA](https://www.ucisa.ac.uk/) regularly survey UK Higher Education
-Institutions about the systems they use, including CRIS. [The 2017 results are
-available online](https://www.ucisa.ac.uk/bestpractice/surveys/cis/cis17); the
-2018 results are pending.
+Institutions about the systems they use, including CRIS. [The results are
+available online](https://www.ucisa.ac.uk/bestpractice/surveys/cis).
 
 Elsevier's Pure is the most widely-used CRIS in the UK, followed by Eprints and
 Elements/Symplectic. If you use one of the systems not yet covered here, please
