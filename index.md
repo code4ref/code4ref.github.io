@@ -32,7 +32,7 @@ portals), provided they contain relevant records. This will provide
 further evidence that software is vital for research, should be treated
 as research output, and will make a stronger case for the campaign
 for the recognition and adoption of the RSE role within academia,
-lead by the [UK Research Software Engineer Association](https://rse.ac.uk/).
+led by the [UK Research Software Engineer Association](https://rse.ac.uk/).
 
 ## Current Research Information Systems used in UK Universities
 
