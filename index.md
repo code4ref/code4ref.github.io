@@ -47,7 +47,7 @@ repository](https://github.com/code4ref/code4ref.github.io).
 
 - [Pure](pure.html)
 - EPrints
-- Elements (Symplectic)
+- [Elements (Symplectic)](symplectic.html)
 - Converis
 - IRIS
 - [Worktribe/RIS](RIS.html)
