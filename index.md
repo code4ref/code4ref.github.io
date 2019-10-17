@@ -2,8 +2,8 @@
 
 Quick links to system-specific instructions:
 - [Pure](pure.html)
-- [RIS](RIS.html)
-- [Symplectic](symplectic.html)
+- [Symplectic (Elements)](symplectic.html)
+- [Worktribe/RIS](RIS.html)
 
 ## Reporting research software in CRIS (Current Research Information Systems)
 
