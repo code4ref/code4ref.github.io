@@ -91,10 +91,12 @@ You should be able to apply access restrictions to the record as appropriate.
 
 ## About this project
 
-This is a hackday project at the SSI's [Collaboration Workshop 2019](https://www.software.ac.uk/cw19).
+This project started at the hackday at the SSI's [Collaboration Workshop 2019](https://www.software.ac.uk/cw19).
 
 The hackday team:
 
 - [Louise Brown](https://www.nottingham.ac.uk/engineering/people/louise.brown), University of Nottingham
 - [Alexander Konovalov](https://risweb.st-andrews.ac.uk/portal/en/persons/alexander-konovalov(fa3ee225-1bbd-408f-884a-f9a715bf86d5).html), University of St Andrews
 - [Patrick McCann](https://risweb.st-andrews.ac.uk/portal/en/persons/paddy-mccann(6bfbed00-4430-4ffe-8aac-4033d19d0fd3).html), University of St Andrews
+
+For a recent update, see Alexander Konovalov's talk at RSE19: [Code4REF: How to learn which software is developed in your institution?](https://doi.org/10.6084/m9.figshare.9867689.v1)
