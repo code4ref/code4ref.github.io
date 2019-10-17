@@ -6,7 +6,7 @@ title: Code4REF
 
 This guide shows the method for recording software outputs in Symplectic Elements as implemented at Imperial College London (16th October 2019).
 
-After logging into Symplectic, you will go straight to your "**Home**", which shows a summary of your publications, grants and gives you a couple of choices to deposit your work after this has been published.
+After logging into Symplectic, you will go straight to your "**Home**", which shows a summary of your publications, grants and gives you a couple of choices to deposit your work after it has been published.
 
 ![Image](SymplecticImages/ProfileScreen.png)
 
@@ -14,15 +14,15 @@ None of these options are useful for software, but just for journal or conferenc
 
 ![Image](SymplecticImages/GoToPublications.png)
 
-This will bring you to you complete publications list, showing those that you have claimed, those that are pending and those that you have rejected - possibly because they have been wrongly identified as yours by the system. On this screen, click on "**Add a new publication**" on the top-right corner:
+This will bring you to your complete publications list, showing those that you have claimed, those that are pending and those that you have rejected - possibly because they have been wrongly identified as yours by the system. On this screen, click on "**Add a new publication**" on the top-right corner:
 
 ![Image](SymplecticImages/AddNewPublication.png)
 
-A very large list of outcomes to add opens - good to remind you of other things that you could (should) be submitting - and among them, "**Add a new software / code**".
+A very large list of types of outcomes to add opens - good to remind you of other things that you could (should) be submitting - and among them, "**Add a new software / code**".
 
 ![Image](SymplecticImages/AddNewSoftware.png)
 
-When clicking in that option, the process of adding a new software starts:
+When selecting that option, the process of adding a new software starts:
 
 1 - A screen appears to search for the software, just in case it is already in the database (it might have been added by a colleague).
 
