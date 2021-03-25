@@ -4,7 +4,7 @@ title: Code4REF
 
 # How to report software outputs in Symplectic Elements
 
-This guide shows the method for recording software outputs in Symplectic Elements as implemented at Imperial College London (16th October 2019).
+This guide shows the method for recording software outputs in Symplectic Elements as implemented at Imperial College London (16th October 2019). A video tutorial of the process can also be found [in this link](https://www.imperial.ac.uk/research-and-innovation/support-for-staff/scholarly-communication/research-data-management/training-and-resources/how-to-videos/).
 
 After logging into Symplectic, you will go straight to your "**Home**", which shows a summary of your publications, grants and gives you a couple of choices to deposit your work after it has been published.
 
